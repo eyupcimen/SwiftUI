@@ -19,6 +19,7 @@
 		CE4B052A23FFB8600056A1B4 /* WebService.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B052923FFB8600056A1B4 /* WebService.swift */; };
 		CE4B052C23FFBA370056A1B4 /* PostUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B052B23FFBA370056A1B4 /* PostUI.swift */; };
 		CE4B052E23FFBAF70056A1B4 /* PostListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B052D23FFBAF70056A1B4 /* PostListViewModel.swift */; };
+		CE5921442400096000DBB7FB /* Spacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5921432400096000DBB7FB /* Spacer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		CE4B052923FFB8600056A1B4 /* WebService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebService.swift; sourceTree = "<group>"; };
 		CE4B052B23FFBA370056A1B4 /* PostUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostUI.swift; sourceTree = "<group>"; };
 		CE4B052D23FFBAF70056A1B4 /* PostListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostListViewModel.swift; sourceTree = "<group>"; };
+		CE5921432400096000DBB7FB /* Spacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spacer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				CE4B051223FEC7490056A1B4 /* Assets.xcassets */,
 				CE4B051723FEC7490056A1B4 /* LaunchScreen.storyboard */,
 				CE4B051A23FEC7490056A1B4 /* Info.plist */,
+				CE5921422400094000DBB7FB /* Spacer */,
 				CE4B052423FFAE4B0056A1B4 /* BindableObject */,
 				CE4B051423FEC7490056A1B4 /* Preview Content */,
 			);
@@ -99,6 +102,14 @@
 				CE4B052D23FFBAF70056A1B4 /* PostListViewModel.swift */,
 			);
 			path = BindableObject;
+			sourceTree = "<group>";
+		};
+		CE5921422400094000DBB7FB /* Spacer */ = {
+			isa = PBXGroup;
+			children = (
+				CE5921432400096000DBB7FB /* Spacer.swift */,
+			);
+			path = Spacer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -173,6 +184,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE4B052323FFADC10056A1B4 /* UsersUI.swift in Sources */,
+				CE5921442400096000DBB7FB /* Spacer.swift in Sources */,
 				CE4B050D23FEC7470056A1B4 /* AppDelegate.swift in Sources */,
 				CE4B052E23FFBAF70056A1B4 /* PostListViewModel.swift in Sources */,
 				CE4B052A23FFB8600056A1B4 /* WebService.swift in Sources */,
