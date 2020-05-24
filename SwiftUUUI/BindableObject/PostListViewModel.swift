@@ -28,7 +28,7 @@ struct PostViewModel {
         self.post = post
     }
     
-    var id : String {
+    var id : Int {
         return self.post.id
     }
     

@@ -3,4 +3,86 @@
    uuid = "85701824-A47B-4EFD-BC43-16D92B1CE770"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B76F1C3F-4770-4D43-A91B-0F53AF5A3382"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUUUI/BindableObject/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getPosts(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E4740CB-E6D8-49C4-A961-1D9919468D3F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUUUI/BindableObject/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getPosts(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1E4740CB-E6D8-49C4-A961-1D9919468D3F - a4c892ca8969972b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SwiftUUUI.Webservice.getPosts((Swift.Optional&lt;Swift.Array&lt;SwiftUUUI.Post&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SwiftUUUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eyupcimen/Projects/SwiftUUUI/SwiftUUUI/BindableObject/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1067">
+               </Location>
+               <Location
+                  uuid = "1E4740CB-E6D8-49C4-A961-1D9919468D3F - 4f9f41a41bf15b83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SwiftUUUI.Webservice.getPosts((Swift.Optional&lt;Swift.Array&lt;SwiftUUUI.Post&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SwiftUUUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eyupcimen/Projects/SwiftUUUI/SwiftUUUI/BindableObject/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF4DE092-EB23-4887-9311-58FC1BD4F364"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUUUI/BindableObject/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getPosts(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

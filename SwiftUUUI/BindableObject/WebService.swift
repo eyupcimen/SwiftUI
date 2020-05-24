@@ -23,6 +23,7 @@ class Webservice {
                 }
                 return
             }
+            print(String(data:data,encoding: .utf8))
             let posts = try? JSONDecoder().decode([Post].self, from: data)
             
             DispatchQueue.main.async {
